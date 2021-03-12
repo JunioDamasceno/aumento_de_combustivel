@@ -14,7 +14,7 @@ namespace aumento_de_combustivel
 
             consumoMedio = distancia/combustivelGasto;
 
-            Console.WriteLine("{0:f3} km/l", consumoMedio);
+            Console.WriteLine("{0:0.000} km/l", consumoMedio);
         }
     }
 }
