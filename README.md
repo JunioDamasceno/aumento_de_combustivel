@@ -1,6 +1,6 @@
 Esta é uma aplicaçao do tipo Console em C#
 
-Este programa foi criado com a finalidade de ter salvo o testedo primeiro desafio do bootcamp Localiza Labs
+Este programa foi criado com a finalidade de ter salvo no Git o código do primeiro desafio do bootcamp Localiza Labs - Solucionando Problemas em C#
 
 Desafio
 Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros).
